@@ -58,6 +58,3 @@ Practical examples help students understand better. Some ideas:
 - **Live Debugging** sessions where students fix OOP-related errors in given code.  
 - **Mock Interviews** focusing on **OOP-based coding questions**.  
 
----
-
-Would you like a **structured syllabus** or **specific coding exercises** for Java OOPs? 🚀
